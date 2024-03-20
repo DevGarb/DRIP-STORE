@@ -20,10 +20,33 @@ Este projeto foi/é realizado por um grupo de estudantes da turma FS08, unidade 
    <img src="https://github.com/ArthurRocha2100/drip-store-fs08/assets/94405748/f1857fe0-5fc2-475c-afe2-b7ca7c2dd1a0" alt="Banner do projeto">
 <p align="center">
 
-## Links Importântes:
+## Tecnologias Utilizadas:
 * [Figma](https://www.figma.com/file/cfb4F7ZXMFQmvmTn3PKI4z/DRIP-STORE---DIGITAL-COLLEGE?type=design&node-id=101-2&mode=design&t=UfPtESK8JjZ1R91F-0);
 
-## Configuração e Clonagem:
+### Tecnologias Principais:
+
+* React: Uma biblioteca JavaScript para criar interfaces de usuário.
+* TypeScript: Uma linguagem de programação tipada que se integra com o JavaScript.
+
+### Bibliotecas e Frameworks:
+* json-server: Uma biblioteca para criar rapidamente uma API REST falsa com base em um arquivo JSON.
+* react-icons: Uma biblioteca de ícones para React.
+* react-loading-skeleton: Uma biblioteca para adicionar esqueletos de carregamento (loading skeletons) em componentes React enquanto eles estão sendo carregados.
+* react-router-dom: Uma biblioteca de roteamento para React.
+* swiper: Uma biblioteca para criar carrosséis e slides em aplicativos web.
+
+### Ferramentas de Desenvolvimento:
+* eslint: Uma ferramenta de linting para JavaScript e TypeScript.
+* @typescript-eslint/eslint-plugin e @typescript-eslint/parser: Plugins do ESLint para adicionar suporte ao TypeScript.
+* eslint-plugin-react-hooks: Um plugin do ESLint para verificar as regras dos hooks do React.
+* eslint-plugin-react-refresh: Um plugin do ESLint para suporte ao React Refresh.
+* vite: Um servidor de desenvolvimento rápido para aplicativos web.
+
+### Tipos de Pacotes:
+* @types/react e @types/react-dom: Pacotes que fornecem tipos TypeScript para o React e o ReactDOM.
+
+---
+## Configuação e Clonagem:
 
 ### Requisitos iniciais:
 Para uma boa execução do projeto, é imprescindível que as seguintes ferramentas estejam previamente instaladas no computador local:
