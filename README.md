@@ -23,7 +23,7 @@ Este projeto foi/é realizado por um grupo de estudantes da turma FS08, unidade 
 ## Links Importântes:
 * [Figma](https://www.figma.com/file/cfb4F7ZXMFQmvmTn3PKI4z/DRIP-STORE---DIGITAL-COLLEGE?type=design&node-id=101-2&mode=design&t=UfPtESK8JjZ1R91F-0);
 
-## Configuação e Clonagem:
+## Configuração e Clonagem:
 
 ### Requisitos iniciais:
 Para uma boa execução do projeto, é imprescindível que as seguintes ferramentas estejam previamente instaladas no computador local:
