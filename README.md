@@ -26,6 +26,8 @@ Este projeto foi/é realizado por um grupo de estudantes da turma FS08, unidade 
 
 * React: Uma biblioteca JavaScript para criar interfaces de usuário.
 * TypeScript: Uma linguagem de programação tipada que se integra com o JavaScript.
+* [Figma](https://www.figma.com/file/cfb4F7ZXMFQmvmTn3PKI4z/DRIP-STORE---DIGITAL-COLLEGE?type=design&node-id=101-2&mode=design&t=UfPtESK8JjZ1R91F-0);
+
 
 ### Bibliotecas e Frameworks:
 * json-server: Uma biblioteca para criar rapidamente uma API REST falsa com base em um arquivo JSON.
@@ -43,9 +45,6 @@ Este projeto foi/é realizado por um grupo de estudantes da turma FS08, unidade 
 
 ### Tipos de Pacotes:
 * @types/react e @types/react-dom: Pacotes que fornecem tipos TypeScript para o React e o ReactDOM.
-
-* [Figma](https://www.figma.com/file/cfb4F7ZXMFQmvmTn3PKI4z/DRIP-STORE---DIGITAL-COLLEGE?type=design&node-id=101-2&mode=design&t=UfPtESK8JjZ1R91F-0);
-
 
 ---
 ## Configuação e Clonagem:
